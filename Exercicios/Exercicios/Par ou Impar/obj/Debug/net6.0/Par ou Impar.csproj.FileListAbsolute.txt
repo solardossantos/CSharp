@@ -1,0 +1,15 @@
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Par ou Impar/bin/Debug/net6.0/Par ou Impar
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Par ou Impar/bin/Debug/net6.0/Par ou Impar.deps.json
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Par ou Impar/bin/Debug/net6.0/Par ou Impar.runtimeconfig.json
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Par ou Impar/bin/Debug/net6.0/Par ou Impar.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Par ou Impar/bin/Debug/net6.0/ref/Par ou Impar.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Par ou Impar/bin/Debug/net6.0/Par ou Impar.pdb
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Par ou Impar/obj/Debug/net6.0/Par ou Impar.csproj.AssemblyReference.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Par ou Impar/obj/Debug/net6.0/Par ou Impar.GeneratedMSBuildEditorConfig.editorconfig
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Par ou Impar/obj/Debug/net6.0/Par ou Impar.AssemblyInfoInputs.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Par ou Impar/obj/Debug/net6.0/Par ou Impar.AssemblyInfo.cs
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Par ou Impar/obj/Debug/net6.0/Par ou Impar.csproj.CoreCompileInputs.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Par ou Impar/obj/Debug/net6.0/Par ou Impar.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Par ou Impar/obj/Debug/net6.0/ref/Par ou Impar.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Par ou Impar/obj/Debug/net6.0/Par ou Impar.pdb
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Par ou Impar/obj/Debug/net6.0/Par ou Impar.genruntimeconfig.cache

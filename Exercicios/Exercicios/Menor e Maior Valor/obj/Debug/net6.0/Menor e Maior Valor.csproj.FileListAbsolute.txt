@@ -1,0 +1,15 @@
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Menor e Maior Valor/obj/Debug/net6.0/Menor e Maior Valor.csproj.AssemblyReference.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Menor e Maior Valor/obj/Debug/net6.0/Menor e Maior Valor.GeneratedMSBuildEditorConfig.editorconfig
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Menor e Maior Valor/obj/Debug/net6.0/Menor e Maior Valor.AssemblyInfoInputs.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Menor e Maior Valor/obj/Debug/net6.0/Menor e Maior Valor.AssemblyInfo.cs
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Menor e Maior Valor/obj/Debug/net6.0/Menor e Maior Valor.csproj.CoreCompileInputs.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Menor e Maior Valor/bin/Debug/net6.0/Menor e Maior Valor
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Menor e Maior Valor/bin/Debug/net6.0/Menor e Maior Valor.deps.json
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Menor e Maior Valor/bin/Debug/net6.0/Menor e Maior Valor.runtimeconfig.json
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Menor e Maior Valor/bin/Debug/net6.0/Menor e Maior Valor.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Menor e Maior Valor/bin/Debug/net6.0/ref/Menor e Maior Valor.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Menor e Maior Valor/bin/Debug/net6.0/Menor e Maior Valor.pdb
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Menor e Maior Valor/obj/Debug/net6.0/Menor e Maior Valor.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Menor e Maior Valor/obj/Debug/net6.0/ref/Menor e Maior Valor.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Menor e Maior Valor/obj/Debug/net6.0/Menor e Maior Valor.pdb
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Menor e Maior Valor/obj/Debug/net6.0/Menor e Maior Valor.genruntimeconfig.cache
