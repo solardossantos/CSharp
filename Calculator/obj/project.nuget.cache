@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KQev1V1RMVU19DYHL9/o4CgQqVvJ2hPrLyg1xQot3xdgWE/7dPhyLczd2tN7q/Ectpf7HsWKbNgmGxcexWnqqw==",
+  "dgSpecHash": "u5pPPM4qEgUpS312yuMjpA6qtbLBChgtDS2ERmB7kkFpBXq4np4ZnUHt1yjUVTo9iToKEQaq8o1hKtNElbRZBg==",
   "success": true,
-  "projectFilePath": "/home/solar/dev/Calculator/Calculator.csproj",
+  "projectFilePath": "/home/solar/Documents/GitHub/CSharp/Calculator/Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

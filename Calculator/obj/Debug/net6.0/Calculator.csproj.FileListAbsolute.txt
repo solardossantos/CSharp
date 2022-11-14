@@ -1,0 +1,15 @@
+/home/solar/RiderProjects/Solution1/Calculator/bin/Debug/net6.0/Calculator
+/home/solar/RiderProjects/Solution1/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/home/solar/RiderProjects/Solution1/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/home/solar/RiderProjects/Solution1/Calculator/bin/Debug/net6.0/Calculator.dll
+/home/solar/RiderProjects/Solution1/Calculator/bin/Debug/net6.0/ref/Calculator.dll
+/home/solar/RiderProjects/Solution1/Calculator/bin/Debug/net6.0/Calculator.pdb
+/home/solar/RiderProjects/Solution1/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/home/solar/RiderProjects/Solution1/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/solar/RiderProjects/Solution1/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/home/solar/RiderProjects/Solution1/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/home/solar/RiderProjects/Solution1/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/home/solar/RiderProjects/Solution1/Calculator/obj/Debug/net6.0/Calculator.dll
+/home/solar/RiderProjects/Solution1/Calculator/obj/Debug/net6.0/ref/Calculator.dll
+/home/solar/RiderProjects/Solution1/Calculator/obj/Debug/net6.0/Calculator.pdb
+/home/solar/RiderProjects/Solution1/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/solar/dev/Calculator/Calculator.csproj": {}
+    "/home/solar/Documents/GitHub/CSharp/Calculator/Calculator.csproj": {}
   },
   "projects": {
-    "/home/solar/dev/Calculator/Calculator.csproj": {
+    "/home/solar/Documents/GitHub/CSharp/Calculator/Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/solar/dev/Calculator/Calculator.csproj",
+        "projectUniqueName": "/home/solar/Documents/GitHub/CSharp/Calculator/Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "/home/solar/dev/Calculator/Calculator.csproj",
+        "projectPath": "/home/solar/Documents/GitHub/CSharp/Calculator/Calculator.csproj",
         "packagesPath": "/home/solar/.nuget/packages/",
-        "outputPath": "/home/solar/dev/Calculator/obj/",
+        "outputPath": "/home/solar/Documents/GitHub/CSharp/Calculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/solar/.nuget/NuGet/NuGet.Config"
