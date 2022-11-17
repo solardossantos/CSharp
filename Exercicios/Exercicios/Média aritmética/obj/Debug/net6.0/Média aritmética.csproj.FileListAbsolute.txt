@@ -1,0 +1,15 @@
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média aritmética/bin/Debug/net6.0/Média aritmética
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média aritmética/bin/Debug/net6.0/Média aritmética.deps.json
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média aritmética/bin/Debug/net6.0/Média aritmética.runtimeconfig.json
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média aritmética/bin/Debug/net6.0/Média aritmética.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média aritmética/bin/Debug/net6.0/ref/Média aritmética.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média aritmética/bin/Debug/net6.0/Média aritmética.pdb
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média aritmética/obj/Debug/net6.0/Média aritmética.csproj.AssemblyReference.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média aritmética/obj/Debug/net6.0/Média aritmética.GeneratedMSBuildEditorConfig.editorconfig
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média aritmética/obj/Debug/net6.0/Média aritmética.AssemblyInfoInputs.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média aritmética/obj/Debug/net6.0/Média aritmética.AssemblyInfo.cs
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média aritmética/obj/Debug/net6.0/Média aritmética.csproj.CoreCompileInputs.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média aritmética/obj/Debug/net6.0/Média aritmética.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média aritmética/obj/Debug/net6.0/ref/Média aritmética.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média aritmética/obj/Debug/net6.0/Média aritmética.pdb
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média aritmética/obj/Debug/net6.0/Média aritmética.genruntimeconfig.cache

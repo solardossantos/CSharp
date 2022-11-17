@@ -1,0 +1,15 @@
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Aritmética N Valores/obj/Debug/net6.0/Média Aritmética N Valores.csproj.AssemblyReference.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Aritmética N Valores/obj/Debug/net6.0/Média Aritmética N Valores.GeneratedMSBuildEditorConfig.editorconfig
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Aritmética N Valores/obj/Debug/net6.0/Média Aritmética N Valores.AssemblyInfoInputs.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Aritmética N Valores/obj/Debug/net6.0/Média Aritmética N Valores.AssemblyInfo.cs
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Aritmética N Valores/obj/Debug/net6.0/Média Aritmética N Valores.csproj.CoreCompileInputs.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Aritmética N Valores/bin/Debug/net6.0/Média Aritmética N Valores
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Aritmética N Valores/bin/Debug/net6.0/Média Aritmética N Valores.deps.json
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Aritmética N Valores/bin/Debug/net6.0/Média Aritmética N Valores.runtimeconfig.json
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Aritmética N Valores/bin/Debug/net6.0/Média Aritmética N Valores.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Aritmética N Valores/bin/Debug/net6.0/ref/Média Aritmética N Valores.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Aritmética N Valores/bin/Debug/net6.0/Média Aritmética N Valores.pdb
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Aritmética N Valores/obj/Debug/net6.0/Média Aritmética N Valores.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Aritmética N Valores/obj/Debug/net6.0/ref/Média Aritmética N Valores.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Aritmética N Valores/obj/Debug/net6.0/Média Aritmética N Valores.pdb
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Aritmética N Valores/obj/Debug/net6.0/Média Aritmética N Valores.genruntimeconfig.cache
