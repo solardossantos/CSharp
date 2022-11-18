@@ -1,0 +1,15 @@
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Manipulação String/obj/Debug/net6.0/Manipulação String.csproj.AssemblyReference.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Manipulação String/obj/Debug/net6.0/Manipulação String.GeneratedMSBuildEditorConfig.editorconfig
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Manipulação String/obj/Debug/net6.0/Manipulação String.AssemblyInfoInputs.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Manipulação String/obj/Debug/net6.0/Manipulação String.AssemblyInfo.cs
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Manipulação String/obj/Debug/net6.0/Manipulação String.csproj.CoreCompileInputs.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Manipulação String/bin/Debug/net6.0/Manipulação String
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Manipulação String/bin/Debug/net6.0/Manipulação String.deps.json
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Manipulação String/bin/Debug/net6.0/Manipulação String.runtimeconfig.json
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Manipulação String/bin/Debug/net6.0/Manipulação String.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Manipulação String/bin/Debug/net6.0/ref/Manipulação String.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Manipulação String/bin/Debug/net6.0/Manipulação String.pdb
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Manipulação String/obj/Debug/net6.0/Manipulação String.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Manipulação String/obj/Debug/net6.0/ref/Manipulação String.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Manipulação String/obj/Debug/net6.0/Manipulação String.pdb
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Manipulação String/obj/Debug/net6.0/Manipulação String.genruntimeconfig.cache

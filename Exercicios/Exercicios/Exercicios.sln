@@ -12,6 +12,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Média Aritmética N Valore
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Média Ponderada", "Média Ponderada\Média Ponderada.csproj", "{A870BBB3-C6D8-45F6-ACE3-6F2C3C29FF9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{AF9D622B-264D-4A0D-B32A-8DEAEF652A3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manipulação String", "Manipulação String\Manipulação String.csproj", "{13788106-FC64-4EE0-9D5A-CE672D52EA2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +46,13 @@ Global
 		{A870BBB3-C6D8-45F6-ACE3-6F2C3C29FF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A870BBB3-C6D8-45F6-ACE3-6F2C3C29FF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A870BBB3-C6D8-45F6-ACE3-6F2C3C29FF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF9D622B-264D-4A0D-B32A-8DEAEF652A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9D622B-264D-4A0D-B32A-8DEAEF652A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9D622B-264D-4A0D-B32A-8DEAEF652A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9D622B-264D-4A0D-B32A-8DEAEF652A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13788106-FC64-4EE0-9D5A-CE672D52EA2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13788106-FC64-4EE0-9D5A-CE672D52EA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13788106-FC64-4EE0-9D5A-CE672D52EA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13788106-FC64-4EE0-9D5A-CE672D52EA2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

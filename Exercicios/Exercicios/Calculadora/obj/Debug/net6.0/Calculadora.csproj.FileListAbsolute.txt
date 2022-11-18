@@ -1,0 +1,15 @@
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Calculadora/obj/Debug/net6.0/Calculadora.csproj.AssemblyReference.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Calculadora/obj/Debug/net6.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfoInputs.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfo.cs
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Calculadora/obj/Debug/net6.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Calculadora/bin/Debug/net6.0/Calculadora
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Calculadora/bin/Debug/net6.0/Calculadora.deps.json
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Calculadora/bin/Debug/net6.0/Calculadora.runtimeconfig.json
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Calculadora/bin/Debug/net6.0/Calculadora.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Calculadora/bin/Debug/net6.0/ref/Calculadora.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Calculadora/bin/Debug/net6.0/Calculadora.pdb
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Calculadora/obj/Debug/net6.0/Calculadora.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Calculadora/obj/Debug/net6.0/ref/Calculadora.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Calculadora/obj/Debug/net6.0/Calculadora.pdb
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Calculadora/obj/Debug/net6.0/Calculadora.genruntimeconfig.cache

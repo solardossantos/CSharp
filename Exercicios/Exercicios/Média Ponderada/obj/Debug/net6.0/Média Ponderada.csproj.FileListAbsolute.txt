@@ -1,0 +1,15 @@
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Ponderada/bin/Debug/net6.0/Média Ponderada
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Ponderada/bin/Debug/net6.0/Média Ponderada.deps.json
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Ponderada/bin/Debug/net6.0/Média Ponderada.runtimeconfig.json
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Ponderada/bin/Debug/net6.0/Média Ponderada.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Ponderada/bin/Debug/net6.0/ref/Média Ponderada.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Ponderada/bin/Debug/net6.0/Média Ponderada.pdb
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Ponderada/obj/Debug/net6.0/Média Ponderada.csproj.AssemblyReference.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Ponderada/obj/Debug/net6.0/Média Ponderada.GeneratedMSBuildEditorConfig.editorconfig
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Ponderada/obj/Debug/net6.0/Média Ponderada.AssemblyInfoInputs.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Ponderada/obj/Debug/net6.0/Média Ponderada.AssemblyInfo.cs
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Ponderada/obj/Debug/net6.0/Média Ponderada.csproj.CoreCompileInputs.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Ponderada/obj/Debug/net6.0/Média Ponderada.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Ponderada/obj/Debug/net6.0/ref/Média Ponderada.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Ponderada/obj/Debug/net6.0/Média Ponderada.pdb
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Média Ponderada/obj/Debug/net6.0/Média Ponderada.genruntimeconfig.cache
