@@ -1,0 +1,15 @@
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Fibonacci/bin/Debug/net6.0/Fibonacci
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Fibonacci/bin/Debug/net6.0/Fibonacci.deps.json
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Fibonacci/bin/Debug/net6.0/Fibonacci.runtimeconfig.json
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Fibonacci/bin/Debug/net6.0/Fibonacci.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Fibonacci/bin/Debug/net6.0/ref/Fibonacci.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Fibonacci/bin/Debug/net6.0/Fibonacci.pdb
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Fibonacci/obj/Debug/net6.0/Fibonacci.csproj.AssemblyReference.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Fibonacci/obj/Debug/net6.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Fibonacci/obj/Debug/net6.0/Fibonacci.AssemblyInfoInputs.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Fibonacci/obj/Debug/net6.0/Fibonacci.AssemblyInfo.cs
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Fibonacci/obj/Debug/net6.0/Fibonacci.csproj.CoreCompileInputs.cache
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Fibonacci/obj/Debug/net6.0/Fibonacci.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Fibonacci/obj/Debug/net6.0/ref/Fibonacci.dll
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Fibonacci/obj/Debug/net6.0/Fibonacci.pdb
+/home/solar/Documents/GitHub/CSharp/Exercicios/Exercicios/Fibonacci/obj/Debug/net6.0/Fibonacci.genruntimeconfig.cache
