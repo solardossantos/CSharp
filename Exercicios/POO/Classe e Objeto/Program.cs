@@ -10,8 +10,25 @@ class Customer
 class Pagamento
 {
     // Propriedades
-    private DateTime Vencimento;
+    public DateTime Vencimento;
 
-    //Métodos
-    void Pagar(){}
+    // Métodos
+    public void Pagar()
+    {
+        ConsultarSaldoDoCartao();
+    }
+
+    private void ConsultarSaldoDoCartao("34135411")
+    {
+        
+    }
+
+    class PagamentoBoleto : Pagamento
+    {
+        private DateTime Vencimento;
+        
+        void Pagar(){ }
+    }
+    // Eventos
+    
 }
